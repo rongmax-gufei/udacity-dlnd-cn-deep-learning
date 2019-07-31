@@ -1,3 +1,5 @@
+- 广告：Udacity课程优惠券：邀请码: 67D6DA2E，立减 300 元
+
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
